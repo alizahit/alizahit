@@ -76,15 +76,14 @@ expertise:
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>📊 Data-Visualization-Agent</h3>
-      <img src="https://img.shields.io/badge/Python-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/n8n-Workflows-success?style=flat-square" />
+      <h3>🔧 OSNET Projesi</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/Business_Analysis-2E86AB?style=flat-square" />
+      <img src="https://img.shields.io/badge/draw.io%2BBPMN-F08080?style=flat-square" />
       <br><br>
-      <b>Analytics Agent</b>
-      <p><em>n8n + UiPath agent for automated data insights and visualizations.</em></p>
-      <a href="https://github.com/alizahit/data-visualization-analysis">
-        <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+      <b>Oto Sanayi Network</b>
+      <p><em>Car owners & repair mechanics matching platform. Requirements analysis, process modeling & risk management.</em></p>
+      <img src="https://img.shields.io/badge/University_Project-0077B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3>🔮 Multi-Agent System</h3>
