@@ -83,7 +83,8 @@ expertise:
       <br><br>
       <b>Oto Sanayi Network</b>
       <p><em>Car owners & repair mechanics matching platform. Requirements analysis, process modeling & risk management.</em></p>
-      <img src="https://img.shields.io/badge/University_Project-0077B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+      <a href="https://github.com/alizahit/OSNET-Projesi">
+        <img src="https://img.shields.io/badge/University_Project-0077B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3>🔮 Multi-Agent System</h3>
